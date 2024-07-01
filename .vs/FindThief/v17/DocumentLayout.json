@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\unity project\\FindThief\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|e:\\unity project\\findthief\\assets\\script\\common\\rplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\common\\rplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|E:\\unity project\\FindThief\\assets\\script\\common\\closegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\common\\closegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|E:\\unity project\\FindThief\\assets\\script\\common\\closerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\common\\closerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|E:\\unity project\\FindThief\\assets\\script\\thief\\thieflogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\thief\\thieflogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|E:\\unity project\\FindThief\\assets\\script\\common\\eventtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\common\\eventtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|E:\\unity project\\FindThief\\assets\\script\\common\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\common\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|E:\\unity project\\FindThief\\assets\\script\\map\\initiatemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\map\\initiatemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|E:\\unity project\\FindThief\\assets\\script\\roundcontrol\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1525091-CCC1-163B-22AF-89190D9C282A}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\roundcontrol\\round.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CloseRule.cs",
+              "DocumentMoniker": "E:\\unity project\\FindThief\\Assets\\Script\\Common\\CloseRule.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Common\\CloseRule.cs",
+              "ToolTip": "E:\\unity project\\FindThief\\Assets\\Script\\Common\\CloseRule.cs",
+              "RelativeToolTip": "Assets\\Script\\Common\\CloseRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:19:38.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CloseGame.cs",
+              "DocumentMoniker": "E:\\unity project\\FindThief\\Assets\\Script\\Common\\CloseGame.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Common\\CloseGame.cs",
+              "ToolTip": "E:\\unity project\\FindThief\\Assets\\Script\\Common\\CloseGame.cs",
+              "RelativeToolTip": "Assets\\Script\\Common\\CloseGame.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:19:20.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rule.cs",
+              "DocumentMoniker": "E:\\unity project\\FindThief\\Assets\\Script\\Common\\Rule.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Common\\Rule.cs",
+              "ToolTip": "E:\\unity project\\FindThief\\Assets\\Script\\Common\\Rule.cs",
+              "RelativeToolTip": "Assets\\Script\\Common\\Rule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:08:25.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rplay.cs",
+              "DocumentMoniker": "E:\\unity project\\FindThief\\Assets\\Script\\Common\\Rplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Common\\Rplay.cs",
+              "ToolTip": "E:\\unity project\\FindThief\\Assets\\Script\\Common\\Rplay.cs",
+              "RelativeToolTip": "Assets\\Script\\Common\\Rplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:04:36.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Round.cs",
+              "DocumentMoniker": "E:\\unity project\\FindThief\\Assets\\Script\\RoundControl\\Round.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RoundControl\\Round.cs",
+              "ToolTip": "E:\\unity project\\FindThief\\Assets\\Script\\RoundControl\\Round.cs",
+              "RelativeToolTip": "Assets\\Script\\RoundControl\\Round.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:14:29.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThiefLogic.cs",
+              "DocumentMoniker": "E:\\unity project\\FindThief\\Assets\\Script\\Thief\\ThiefLogic.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Thief\\ThiefLogic.cs",
+              "ToolTip": "E:\\unity project\\FindThief\\Assets\\Script\\Thief\\ThiefLogic.cs",
+              "RelativeToolTip": "Assets\\Script\\Thief\\ThiefLogic.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAADgvycAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:00:20.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventTrigger.cs",
+              "DocumentMoniker": "E:\\unity project\\FindThief\\Assets\\Script\\Common\\EventTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Common\\EventTrigger.cs",
+              "ToolTip": "E:\\unity project\\FindThief\\Assets\\Script\\Common\\EventTrigger.cs",
+              "RelativeToolTip": "Assets\\Script\\Common\\EventTrigger.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAiwFMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T05:47:34.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InitiateMap.cs",
+              "DocumentMoniker": "E:\\unity project\\FindThief\\Assets\\Script\\Map\\InitiateMap.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Map\\InitiateMap.cs",
+              "ToolTip": "E:\\unity project\\FindThief\\Assets\\Script\\Map\\InitiateMap.cs",
+              "RelativeToolTip": "Assets\\Script\\Map\\InitiateMap.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T05:36:57.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
