@@ -26,6 +26,7 @@ public class EventTrigger : MonoBehaviour
     private bool isEnter = false;
     [HideInInspector]
     public bool isBarrier =false;
+    private GameObject eventSystem;
     private void Start()
     {
         squareSpriteRenderer = GetComponent<SpriteRenderer>();
@@ -34,6 +35,7 @@ public class EventTrigger : MonoBehaviour
         map = scriptAssemble.GetComponent<InitiateMap>();
         thiefLogic = scriptAssemble.GetComponent<ThiefLogic>();
         FinishCanvas = GameObject.Find("Canvas");
+        eventSystem = GameObject.Find("EventSystem");
     }
 
     private IEnumerator DestroyCanvas()
@@ -42,6 +44,7 @@ public class EventTrigger : MonoBehaviour
         Destroy(nowCanvas);
         squareSpriteRenderer.color = currentColor;
         isShowNumber =false;
+        eventSystem.SetActive(true);
     }
     private int CountThiefSteps()
     {
@@ -87,6 +90,7 @@ public class EventTrigger : MonoBehaviour
                 }
                 if (Input.GetMouseButtonDown(0))
                 {
+                    eventSystem.SetActive(false);
                     nowCanvas = Instantiate(canvasPre);
                     nowCanvas.transform.position = transform.position;
                     Text text = nowCanvas.GetComponentInChildren<Text>();
